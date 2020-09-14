@@ -1,17 +1,22 @@
 # Algorithmic Aesthetics Presentation
 
+# Telemagic Introduction
+- Intro [who what where]
+- Open media lab Telemagic ! 
+- A.I. project: how we worked > what was our goal / 
+very own definition in building the A.I. but also in the goal,
+is it a usefull tool or not ? 
+- Footage: Concert in A.I. / Hopes dreams - perspectives
+Future of the project.
 
 # What is aethetics?
-
  - what things can have aesthetic value?
  - what are the ingredients of aesthetic value?
  - can aestethics be defined at all independent from individual perspective? which aspects are cultural/biological/universal?
 
-# How can aesthetics be formalised?
-
+# How can aesthetics be formalised? Computational Aesthetics
  - 
- 
- 
+
  
 # Simplicity correlates with Aesthetic Value
 
